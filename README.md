@@ -28,6 +28,14 @@ Assalamualaikum! I am Md. Samaul Haque Malik, a passionate and dedicated individ
   <img src="https://img.shields.io/badge/Android Studio-Java-green?logo=android-studio&logoColor=white&style=for-the-badge" />
 </p>
 
+#### GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=utso1707097&show_icons=true&theme=radical)
+
+#### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utso1707097&layout=compact)](https://github.com/utso1707097/github-readme-stats)
+
 ## 📚 Academic and Research Background
 
 - 🎓 Graduated with a degree in Computer Science and Engineering.
