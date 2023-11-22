@@ -30,10 +30,10 @@ Assalamualaikum! I am Md. Samaul Haque Malik, a passionate and dedicated individ
 
 #### GitHub Stats & Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utso1707097&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utso1707097&layout=compact" alt="Top Languages" />
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=utso1707097&show_icons=true&theme=radical" alt="Your GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utso1707097&layout=compact" alt="Top Languages" width="48%" />
+</div>
 
 ## 📚 Academic and Research Background
 
